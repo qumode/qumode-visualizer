@@ -1,5 +1,13 @@
 ![Wire](https://github.com/emilwidlund/wire/raw/master/banner.png)
 
+
+Most computing paradigms in theoretical physics are generally based on diagrams infering a pasrticular phenomenon from quantum gates  to Feynmann diagrams, and category theory are represented graphically.
+
+In quantum computing we find more artifacts of these method, for example tensor diagrams and gates can easily be represented as diagrams and it suffices as a good practice
+
+Quantum Computing has inspired me to think of computation more often diagrammatically. This inspired QUMODE. 
+
+
 # Wire
 
 [![CircleCI](https://circleci.com/gh/emilwidlund/wire.svg?style=svg)](https://circleci.com/gh/emilwidlund/wire)

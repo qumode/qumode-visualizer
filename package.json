@@ -1,0 +1,38 @@
+{
+    "name": "wire",
+    "version": "0.0.1",
+    "description": "Monorepo for all Wire artifacts",
+    "author": "Emil Widlund",
+    "main": "index.js",
+    "scripts": {
+        "bootstrap": "lerna bootstrap --hoist",
+        "test": "lerna exec npm run test",
+        "build": "lerna exec npm run build",
+        "dev": "lerna exec --parallel npm run dev"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/emilwidlund/wire.git"
+    },
+    "keywords": [],
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/emilwidlund/wire/issues"
+    },
+    "homepage": "https://github.com/emilwidlund/wire#readme",
+    "dependencies": {
+        "lerna": "^3.14.1"
+    },
+    "devDependencies": {
+        "@types/jest": "^24.0.17",
+        "jest": "^24.9.0",
+        "ts-jest": "^24.0.2",
+        "typescript": "^3.5.3",
+        "husky": "^3.0.3"
+    },
+    "husky": {
+        "hooks": {
+            "pre-commit": "npm run test"
+        }
+    }
+}

@@ -1,8 +1,8 @@
 {
     "name": "wire",
     "version": "0.0.1",
-    "description": "Monorepo for all Wire artifacts",
-    "author": "Emil Widlund",
+    "description": "QUMODE artifacts",
+    "author": "Jonas Kgomo",
     "main": "index.js",
     "scripts": {
         "bootstrap": "lerna bootstrap --hoist",
@@ -12,14 +12,10 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/emilwidlund/wire.git"
+        "url": "https://github.com/qumode"
     },
     "keywords": [],
     "license": "ISC",
-    "bugs": {
-        "url": "https://github.com/emilwidlund/wire/issues"
-    },
-    "homepage": "https://github.com/emilwidlund/wire#readme",
     "dependencies": {
         "lerna": "^3.14.1"
     },

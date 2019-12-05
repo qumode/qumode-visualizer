@@ -49,5 +49,24 @@ QUMODE also depends on node packages [Quantum Tensor Networks](https://github.co
 Contributions are more than welcome. Please let me know if you want to become a collaborator on this project.
 If you find bugs, issues or ideas of improvement, let me know by opening an Issue.
 
+### Core
+
+- [React](https://facebook.github.io/react/) (w/o JSX)
+- [Redux](http://redux.js.org/)
+- [React DnD](http://react-dnd.github.io/react-dnd/)
+- [React Select](http://jedwatson.github.io/react-select/)
+- [reselect](https://github.com/reactjs/reselect)
+
+I'm currently *not* using [RxJS](http://reactivex.io/rxjs/), which Jonas
+used and commended in his talk. I may still elect to try it out (see Todo
+section above), but think for the time being, Redux should be sufficient
+without adding additional mental overhead of where state is coming from.
+
+### Development
+
+- [Babel](https://babeljs.io/)
+- [budō](https://github.com/mattdesl/budo)
+- [standard](https://standardjs.com/)
+- [tape](https://github.com/substack/tape)
 
 

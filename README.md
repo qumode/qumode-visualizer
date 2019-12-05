@@ -1,4 +1,4 @@
-![Wire](https://github.com/emilwidlund/wire/raw/master/banner.png)
+![Wire](https://github.com/qumode/qumode-visualizer/blob/master/banner.png)
 
 
 Most computing paradigms in theoretical physics are generally based on diagrams infering a pasrticular phenomenon from quantum gates  to Feynmann diagrams, and category theory are represented graphically.

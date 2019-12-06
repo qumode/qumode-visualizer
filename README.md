@@ -7,9 +7,7 @@
 ![Wire](https://github.com/qumode/qumode-visualizer/blob/master/banner.png)
 
 ### What? 
-Qumode is a visual programming language that allows users to perform algorithmic operations and subroutines with graphical tools. 
-
-Quantum Circuit Diagrams are a helpful visual language that is more readible than writing down matrices. Circuit composers help us understand quantum algorithms. 
+Qumode is a visual programming language that allows users to perform algorithmic operations and subroutines with graphical tools. Quantum Circuit Diagrams are a helpful visual language that is more readible than writing down matrices. Circuit composers help us understand quantum algorithms. 
 
 Qumode will provide a visual programming language that uses the standard circuit conventions for making operations on the circuits and qubits to help solve problems and for learning through exploration. 
 
@@ -17,9 +15,7 @@ Qumode will provide a visual programming language that uses the standard circuit
 Most computing paradigms in theoretical physics are generally based on diagrams infering a particular phenomenon, quantum gates  to Feynmann diagrams, and category theory are represented graphically.
 Qumode was built on a principle that people should not be limited by the tools they use and that more people should be able to operate quantum computing as accessible as classical computing.
 
-In quantum computing we find more artifacts of these method, for example tensor diagrams and gates can easily be represented as diagrams and it suffices as a good practice.
-
-For instance a solid line depicts a qubit register,and boxes resemble gates.
+In quantum computing we find more artifacts of these method, for example tensor diagrams and gates can easily be represented as diagrams and it suffices as a good practice. For instance a solid line depicts a qubit register,and boxes resemble gates.
  
 ### Who
 
